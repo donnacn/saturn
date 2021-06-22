@@ -1,6 +1,1 @@
-<svg width="300" height="180" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="300" height="180" fill="#e0e0e0"/>
-<text x="150" y="60" font-family="Sans-serif" font-size="34" text-anchor="middle" font-weight="bold" fill="#6d8838" letter-spacing="2">UnusualCard</text>
-<text x="150" y="115" font-family="Sans-serif" font-size="20" text-anchor="middle">PIN for this card:</text>
-<text x="150" y="151" fill="#ff8080" font-family="Sans-serif" font-size="30" text-anchor="middle">143455</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180"><rect width="300" height="180" x="0" y="0" fill="#e0e0e0"/><text x="150" y="60" fill="#6d8838" font-family="Sans-serif" font-size="34" font-weight="bold" letter-spacing="2" text-anchor="middle">UnusualCard</text><text x="150" y="115" font-family="Sans-serif" font-size="20" text-anchor="middle">PIN for this card:</text><text x="150" y="151" fill="#ff8080" font-family="Sans-serif" font-size="30" text-anchor="middle">143455</text></svg>
